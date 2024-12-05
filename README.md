@@ -1,4 +1,4 @@
 este es mi nuevo archivo
 
 
-Este es mi archivo actualizad
+Este es mi archivo actualizado
